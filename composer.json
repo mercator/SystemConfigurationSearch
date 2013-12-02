@@ -1,8 +1,8 @@
 {
-    "name": "mercator/alanstormdotcom_systemsearch",
+    "name": "mercator/SystemConfigurationSearch",
     "type": "magento-module",
     "description": "Mercator repository for Alanstormdotcom_Systemsearch. Installs a search form that allows you to quickly find System Configuration fields.",
-    "homepage": "https://github.com/mercator/alanstormdotcom_systemsearch",
+    "homepage": "https://github.com/mercator/SystemConfigurationSearch",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
     }
